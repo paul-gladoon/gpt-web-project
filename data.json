@@ -1,0 +1,30 @@
+[
+  {
+    "date": "01.01.22",
+    "result": "passed",
+    "version": "1.0",
+    "allure": "https://myallure.com/reports/1",
+    "run": "https://github.com/user/repo/actions/runs/1"
+  },
+  {
+    "date": "01.01.22",
+    "result": "passed",
+    "version": "1.0",
+    "allure": "https://myallure.com/reports/1",
+    "run": "https://github.com/user/repo/actions/runs/1"
+  },
+  {
+    "date": "01.01.22",
+    "result": "passed",
+    "version": "1.0",
+    "allure": "https://myallure.com/reports/1",
+    "run": "https://github.com/user/repo/actions/runs/1"
+  },
+  {
+    "date": "01.01.22",
+    "result": "passed",
+    "version": "1.0",
+    "allure": "https://myallure.com/reports/1",
+    "run": "https://github.com/user/repo/actions/runs/1"
+  }
+]
